@@ -1,0 +1,6 @@
+rootProject.name = 'kafka-io-study'
+
+include("common")
+include("nio-server")
+include("netty-server")
+include("loadgen")

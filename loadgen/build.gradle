@@ -1,0 +1,5 @@
+dependencies {
+    implementation project(":common")
+    implementation project(":nio-server")
+    implementation project(":netty-server")
+}
