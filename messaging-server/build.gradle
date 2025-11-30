@@ -1,0 +1,6 @@
+dependencies {
+    // Netty
+    implementation platform("io.netty:netty-bom:4.1.114.Final")
+    implementation "io.netty:netty-all"
+}
+
